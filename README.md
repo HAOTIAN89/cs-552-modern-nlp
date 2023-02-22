@@ -7,7 +7,7 @@ Natural language processing is ubiquitous in modern intelligent technologies, se
 - [Platforms](#class)
 - [Lecture Schedule](#lectures)
 - [Exercise Schedule](#exercises)
-- [Course evaluation](#evaluation)
+- [Grading](#evaluation)
 - [Contact](#contact)
 
 
@@ -103,7 +103,7 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 _**Note**: Please make sure you have already done the setup prerequisites to run the coding parts of the exercises. You can find the instructions [here]()._
 
 <a name="evaluation"></a>
-## Course Evaluation:
+## Grading:
 Your grade in the course will be computed according to the following guidelines:
 
 ### Assignments (40%):
@@ -157,7 +157,7 @@ All assignments and milestones are due at 11:59 PM on their due date. As we unde
 Please contact us for any organizational questions or questions related to the course content.
 
 
-[1s]:https://github.com/epfl-nlp/cs-552-modern-nlp
+[1s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%201
 
 [1c]:https://github.com/epfl-nlp/cs-552-modern-nlp
 
