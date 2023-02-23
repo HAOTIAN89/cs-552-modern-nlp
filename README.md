@@ -159,6 +159,6 @@ Please contact us for any organizational questions or questions related to the c
 
 [1s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%201
 
-[1c]:https://github.com/epfl-nlp/cs-552-modern-nlp
+[1c]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%201%20-%20Word%20Embeddings
 
 
