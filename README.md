@@ -152,7 +152,7 @@ All assignments and milestones are due at 11:59 PM on their due date. As we unde
 
 **Lecturer**: [Antoine Bosselut](https://people.epfl.ch/antoine.bosselut).
 
-**Teaching assistants**: [Mohammadreza Banaei](https://people.epfl.ch/mohammadreza.banaei?lang=en), [Deniz Bayazit](https://people.epfl.ch/deniz.bayazit?lang=en), [Simin Fan](https://people.epfl.ch/simin.fan?lang=en), [Silin Gao](https://people.epfl.ch/silin.gao?lang=en), [Angelika Romanou](https://people.epfl.ch/angelika.romanou?lang=en)
+**Teaching assistants**: [Mohammadreza Banaei](https://people.epfl.ch/mohammadreza.banaei?lang=en), [Deniz Bayazit](https://people.epfl.ch/deniz.bayazit?lang=en), [Zeming (Eric) Chen](https://people.epfl.ch/zeming.chen?lang=en), [Simin Fan](https://people.epfl.ch/simin.fan?lang=en), [Silin Gao](https://people.epfl.ch/silin.gao?lang=en), [Angelika Romanou](https://people.epfl.ch/angelika.romanou?lang=en)
 
 Please contact us for any organizational questions or questions related to the course content.
 
