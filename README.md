@@ -16,8 +16,8 @@ Natural language processing is ubiquitous in modern intelligent technologies, se
 
 | Platform           | Where & when                                              |
 |:-------------------|:----------------------------------------------------------|
-| Lectures           | **Wednesdays: 9:15-11:00am** [[CM2](https://plan.epfl.ch//?room==CM%201%202)] & **Thursdays: 1:15-2:00pm** [[CO3](https://plan.epfl.ch//?room==CO%203)] |
-| Exercises Session  | **Thursdays: 2:15-4:00pm** [[CO3](https://plan.epfl.ch//?room==CO%203)] |
+| Lectures           | **Wednesdays: 9:15-11:00am** [[CM2](https://plan.epfl.ch//?room==CM%201%202)] & **Thursdays: 1:15-2:00pm** [[CE1](https://plan.epfl.ch//?room==CE%201%201)] |
+| Exercises Session  | **Thursdays: 2:15-4:00pm** [[CE1](https://plan.epfl.ch//?room==CE%201%201)] |
 | Project Assistance <br />(not every week) | **Wednesdays: 11:15am-12:00pm** [[CM2](https://plan.epfl.ch//?room==CM%201%202)] |
 | Forum              | Ed Forum [[link](https://edstem.org/eu/courses/379/discussion/)]                                       | 
 | Moodle             | Assignments & Project submissions [[link](https://moodle.epfl.ch/course/view.php?id=17143)]              |
