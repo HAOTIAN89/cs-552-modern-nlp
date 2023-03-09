@@ -31,9 +31,9 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |:------------|:--------|:-------------------------------------------------------------------------------------|:----------------------------------:|
 | **Week 1**  | 22 Feb <br />23 Feb  |  Introduction + Building a simple neural classifier  <br />Neural LMs: word embeddings    [[slides][1s]]    |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
-| **Week 2**  |  1 Mar <br />2 Mar   |  Classical and Fixed-context Language Models <br />Recurrent Neural Networks                                |  Antoine Bosselut                  |
+| **Week 2**  |  1 Mar <br />2 Mar   |  Classical and Fixed-context Language Models <br />Recurrent Neural Networks              [[slides][2s]]    |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
-| **Week 3**  |  8 Mar <br />9 Mar   |  LSTMs and Sequence-to-sequence models <br />Theoretical properties of RNNs                                 |  Antoine Bosselut <br />Gail Weiss |
+| **Week 3**  |  8 Mar <br />9 Mar   |  LSTMs and Sequence-to-sequence models <br />Theoretical properties of RNNs               [[slides][3s]]    |  Antoine Bosselut <br />Gail Weiss |
 |             |                      |                                                                                                             |                                    |
 | **Week 4**  | 15 Mar <br />16 Mar  |  Attention + Transformers <br />Transformers                                                                |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
@@ -47,7 +47,7 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |             |                      |                                                                                                             |                                    |
 | **Week 9**  | 19 Apr <br />20 Apr  |  In-Context Learning <br />                                                                                 |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
-| **Week 10** | 26 Apr <br />27 Apr  |  Scaling Laws + Model Compression <br />***No class***                                                      |  Antoine Bosselut <br />Reza Banaei     |
+| **Week 10** | 26 Apr <br />27 Apr  |  Scaling Laws + Model Compression <br />***No class***                                                      |  Antoine Bosselut <br />Reza Banaei  |
 |             |                      |                                                                                                             |                                    |
 | **Week 11** |  3 May <br />4 May   |  Ethics in NLP <br />Ethics in NLP                                                                          |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
@@ -57,7 +57,7 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |             |                      |                                                                                                             |                                    |
 | **Week 14** | 24 May <br />25 May  |  Tokenization + Multilingual LMs  <br />***No class***                                                      |  Negar Foroutan                    |
 |             |                      |                                                                                                             |                                    |
-| **Week 15** | 31 May <br />1 Jun   |  Language & Vision <br />Language & Vision + Wrap-up                                                        |  Syrielle Montariol <br />Antoine Bosselut    |
+| **Week 15** | 31 May <br />1 Jun   |  Language & Vision <br />Language & Vision + Wrap-up                                                        |  Syrielle Montariol <br />Antoine Bosselut |
 
 <a name="exercises"></a>
 ## Exercise Schedule
@@ -158,6 +158,9 @@ Please contact us for any organizational questions or questions related to the c
 
 
 [1s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%201
+[2s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%202
+[3s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%203
+
 
 [1c]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%201%20-%20Word%20Embeddings
 
