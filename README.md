@@ -109,6 +109,7 @@ Your grade in the course will be computed according to the following guidelines:
 ### Assignments (40%):
 There will be three assignments throughout the course. They will be released and due according to the following schedule:
 #### Assignment 1 (10%)
+Link for the assignment [here](https://moodle.epfl.ch/mod/forum/discuss.php?d=87286)
 - Released: 10 Mar 2023
 - Due: 24 Mar 2023
 #### Assignment 2 (15%)
