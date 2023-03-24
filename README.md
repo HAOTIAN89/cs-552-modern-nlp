@@ -82,7 +82,7 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |             |         |                                                                                       |                                                                     |
 | **Week 9**  | 20 Apr  |  Text Generation Review <br />In-context Learning                                     |  Deniz Bayazit <br />Silin Gao <br />Sepideh Mamooler               |
 |             |         |                                                                                       |                                                                     |
-| **Week 10** | 27 Apr  |  In-context Learning Review <br />Milestone 1 Discussion                              |  Silin Gao TA meetings on-demand                                    |
+| **Week 10** | 27 Apr  |  In-context Learning Review <br />Milestone 1 Discussion                              |  Silin Gao <br />TA meetings on-demand                                    |
 |             |         |                                                                                       |                                                                     |
 | **Week 11** |  4 May  |  Project                                                                              |  TA meetings on-demand                                              |
 |             |         |                                                                                       |                                                                     |
