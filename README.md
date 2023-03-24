@@ -110,11 +110,12 @@ Your grade in the course will be computed according to the following guidelines:
 There will be three assignments throughout the course. They will be released and due according to the following schedule:
 
 #### Assignment 1 (10%)
-Link for the assignment [[here][1a]]
+Link for the assignment [[here][1a]].
 - Released: 10 Mar 2023
 - Due: 24 Mar 2023
 
 #### Assignment 2 (15%)
+Link for the assignment [[here][2a]].
 - Released: 24 Mar 2023
 - Due: 7 Apr 2023 
 
@@ -174,3 +175,4 @@ Please contact us for any organizational questions or questions related to the c
 [5e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%205%20-%20BERT
 
 [1a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=87286
+[2a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=87999
