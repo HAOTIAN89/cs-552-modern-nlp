@@ -29,15 +29,15 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 
 | Week    | Date    |  Topic                                                                 |  Instructor                        |
 |:------------|:--------|:-------------------------------------------------------------------------------------|:----------------------------------:|
-| **Week 1**  | 22 Feb <br />23 Feb  |  Introduction + Building a simple neural classifier  <br />Neural LMs: word embeddings    [[slides][1s]]    |  Antoine Bosselut                  |
+| **Week 1**  | 22 Feb <br />23 Feb  |  Introduction + Building a simple neural classifier  <br />Neural LMs: word embeddings    [[slides][1s], [readings][1r]]    |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
-| **Week 2**  |  1 Mar <br />2 Mar   |  Classical and Fixed-context Language Models <br />Recurrent Neural Networks              [[slides][2s]]    |  Antoine Bosselut                  |
+| **Week 2**  |  1 Mar <br />2 Mar   |  Classical and Fixed-context Language Models <br />Recurrent Neural Networks              [[slides][2s], [readings][2r]]    |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
-| **Week 3**  |  8 Mar <br />9 Mar   |  LSTMs and Sequence-to-sequence models <br />Theoretical properties of RNNs               [[slides][3s]]    |  Antoine Bosselut <br />Gail Weiss |
+| **Week 3**  |  8 Mar <br />9 Mar   |  LSTMs and Sequence-to-sequence models <br />Theoretical properties of RNNs               [[slides][3s], [readings][3r]]    |  Antoine Bosselut <br />Gail Weiss |
 |             |                      |                                                                                                             |                                    |
-| **Week 4**  | 15 Mar <br />16 Mar  |  Attention + Transformers <br />Transformers                                              [[slides][4s]]    |  Antoine Bosselut                  |
+| **Week 4**  | 15 Mar <br />16 Mar  |  Attention + Transformers <br />Transformers                                              [[slides][4s], [readings][4r]]    |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
-| **Week 5**  | 22 Mar <br />23 Mar  |  Pretraining: ELMo, BERT  <br />Transfer Learning: Introduction                           [[slides][5s]]    |  Antoine Bosselut                  |
+| **Week 5**  | 22 Mar <br />23 Mar  |  Pretraining: ELMo, BERT  <br />Transfer Learning: Introduction                           [[slides][5s], [readings][5r]]    |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
 | **Week 6**  | 29 Mar <br />30 Mar  |  Transfer Learning: Dataset Biases  <br />Transfer Learning: Prompts                                        |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
@@ -176,3 +176,11 @@ Please contact us for any organizational questions or questions related to the c
 
 [1a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=87286
 [2a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=87999
+
+
+[1r]:https://github.com/epfl-nlp/cs-552-modern-nlp/blob/main/Lectures/Week%201/README.md
+[2r]:https://github.com/epfl-nlp/cs-552-modern-nlp/blob/main/Lectures/Week%202/README.md
+[3r]:https://github.com/epfl-nlp/cs-552-modern-nlp/blob/main/Lectures/Week%203/README.md
+[4r]:https://github.com/epfl-nlp/cs-552-modern-nlp/blob/main/Lectures/Week%204/README.md
+[5r]:https://github.com/epfl-nlp/cs-552-modern-nlp/blob/main/Lectures/Week%205/README.md
+
