@@ -39,7 +39,7 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |             |                      |                                                                                                             |                                    |
 | **Week 5**  | 22 Mar <br />23 Mar  |  Pretraining: ELMo, BERT  <br />Transfer Learning: Introduction                           [[slides][5s], [readings][5r]]    |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
-| **Week 6**  | 29 Mar <br />30 Mar  |  Transfer Learning: Dataset Biases  <br />Transfer Learning: Prompts                                        |  Antoine Bosselut                  |
+| **Week 6**  | 29 Mar <br />30 Mar  |  Transfer Learning: Dataset Biases  <br />Text Generation                                        |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
 | **Week 7**  |  5 Apr  <br />6 Apr  |  Text Generation                                                                                            |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
