@@ -39,9 +39,9 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |             |                      |                                                                                                             |                                    |
 | **Week 5**  | 22 Mar <br />23 Mar  |  Pretraining: ELMo, BERT  <br />Transfer Learning: Introduction                           [[slides][5s], [readings][5r]]    |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
-| **Week 6**  | 29 Mar <br />30 Mar  |  Transfer Learning: Dataset Biases  <br />Text Generation                                        |  Antoine Bosselut                  |
+| **Week 6**  | 29 Mar <br />30 Mar  |  Transfer Learning: Dataset Biases  <br />Text Generation     [slides][6s]                                    |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
-| **Week 7**  |  5 Apr  <br />6 Apr  |  Text Generation                                                                                            |  Antoine Bosselut                  |
+| **Week 7**  |  5 Apr  <br />6 Apr  |  Text Generation    [slides][7s]                                                                                        |  Antoine Bosselut                  |
 |             |                      |                                                                                                             |                                    |
 | **Week 8**  |                      |  ***EASTER BREAK***                                                                                         |  Antoine Bosselut                  |  
 |             |                      |                                                                                                             |                                    |
@@ -74,7 +74,7 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |             |         |                                                                                       |                                                                     |
 | **Week 5**  | 23 Mar  |  Transformers Review <br />Pretraining: ELMo, BERT    [[code][5e]]                    |  Simin Fan <br />Sepideh Mamooler <br />Molly Petersen              |
 |             |         |                                                                                       |                                                                     |
-| **Week 6**  | 30 Mar  |  Pretraining Review <br />Transfer Learning: Dataset Biases                           |  Molly Petersen <br />Mete Ismayil <br />Sepideh Mamooler           |
+| **Week 6**  | 30 Mar  |  Pretraining Review <br />Transfer Learning: Dataset Biases   [[code][6e]]            |  Molly Petersen <br />Mete Ismayil <br />Sepideh Mamooler           |
 |             |         |                                                                                       |                                                                     |
 | **Week 7**  |  6 Apr  |  Transfer Learning Review <br />Text Generation                                       |  Molly Petersen <br />Deniz Bayazit <br />Sepideh Mamooler          |
 |             |         |                                                                                       |                                                                     |
@@ -167,12 +167,15 @@ Please contact us for any organizational questions or questions related to the c
 [3s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%203
 [4s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%204
 [5s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%205
+[6s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%206
+[7s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%207
 
 [1e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%201%20-%20Word%20Embeddings
 [2e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%202%20-%20N-gram%20%26%20Neural%20Language%20Models
 [3e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%203%20-%20RNN
 [4e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%204%20-%20Transformer%20%26%20Attention
 [5e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%205%20-%20BERT
+[6e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%206%20-%20Biases%20%26%20Prompting
 
 [1a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=87286
 [2a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=87999
