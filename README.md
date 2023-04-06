@@ -27,42 +27,42 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 <a name="lectures"></a>
 ## Lecture Schedule
 
-| Week    | Date    |  Topic                                                                 |  Instructor                        |
-|:------------|:--------|:-------------------------------------------------------------------------------------|:----------------------------------:|
-| **Week 1**  | 22 Feb <br />23 Feb  |  Introduction + Building a simple neural classifier  <br />Neural LMs: word embeddings    [[slides][1s], [readings][1r]]    |  Antoine Bosselut                  |
-|             |                      |                                                                                                             |                                    |
-| **Week 2**  |  1 Mar <br />2 Mar   |  Classical and Fixed-context Language Models <br />Recurrent Neural Networks              [[slides][2s], [readings][2r]]    |  Antoine Bosselut                  |
-|             |                      |                                                                                                             |                                    |
-| **Week 3**  |  8 Mar <br />9 Mar   |  LSTMs and Sequence-to-sequence models <br />Theoretical properties of RNNs               [[slides][3s], [readings][3r]]    |  Antoine Bosselut <br />Gail Weiss |
-|             |                      |                                                                                                             |                                    |
-| **Week 4**  | 15 Mar <br />16 Mar  |  Attention + Transformers <br />Transformers                                              [[slides][4s], [readings][4r]]    |  Antoine Bosselut                  |
-|             |                      |                                                                                                             |                                    |
-| **Week 5**  | 22 Mar <br />23 Mar  |  Pretraining: ELMo, BERT  <br />Transfer Learning: Introduction                           [[slides][5s], [readings][5r]]    |  Antoine Bosselut                  |
-|             |                      |                                                                                                             |                                    |
-| **Week 6**  | 29 Mar <br />30 Mar  |  Transfer Learning: Dataset Biases  <br />Text Generation     [slides][6s]                                    |  Antoine Bosselut                  |
-|             |                      |                                                                                                             |                                    |
-| **Week 7**  |  5 Apr  <br />6 Apr  |  Text Generation    [slides][7s]                                                                                        |  Antoine Bosselut                  |
-|             |                      |                                                                                                             |                                    |
-| **Week 8**  |                      |  ***EASTER BREAK***                                                                                         |  Antoine Bosselut                  |  
-|             |                      |                                                                                                             |                                    |
-| **Week 9**  | 19 Apr <br />20 Apr  |  In-Context Learning <br />                                                                                 |  Antoine Bosselut                  |
-|             |                      |                                                                                                             |                                    |
-| **Week 10** | 26 Apr <br />27 Apr  |  Scaling Laws + Model Compression <br />***No class***                                                      |  Antoine Bosselut <br />Reza Banaei  |
-|             |                      |                                                                                                             |                                    |
-| **Week 11** |  3 May <br />4 May   |  Ethics in NLP <br />Ethics in NLP                                                                          |  Antoine Bosselut                  |
-|             |                      |                                                                                                             |                                    |
-| **Week 12** | 10 May <br />11 May  |  Interpretability & Analysis of Language Models <br />***No class***                                        |  Antoine Bosselut                  |
-|             |                      |                                                                                                             |                                    |
-| **Week 13** | 17 May <br />18 May  |  Reading Comprehension & Open-domain QA <br />Language & Knowledge Graphs                                   |  Antoine Bosselut  <br />Angelika Romanou                |
-|             |                      |                                                                                                             |                                    |
-| **Week 14** | 24 May <br />25 May  |  Tokenization + Multilingual LMs  <br />***No class***                                                      |  Negar Foroutan                    |
-|             |                      |                                                                                                             |                                    |
-| **Week 15** | 31 May <br />1 Jun   |  Language & Vision <br />Language & Vision + Wrap-up                                                        |  Syrielle Montariol <br />Antoine Bosselut |
+| Week        | Date                 |  Topic                                                                                                                       |  Instructor                        |
+|:------------|:---------------------|:-----------------------------------------------------------------------------------------------------------------------------|:----------------------------------:|
+| **Week 1**  | 22 Feb <br />23 Feb  |  Introduction + Building a simple neural classifier  <br />Neural LMs: word embeddings    [[slides][1s], [readings][1r]]     |  Antoine Bosselut                  |
+|             |                      |                                                                                                                              |                                    |
+| **Week 2**  |  1 Mar <br />2 Mar   |  Classical and Fixed-context Language Models <br />Recurrent Neural Networks              [[slides][2s], [readings][2r]]     |  Antoine Bosselut                  |
+|             |                      |                                                                                                                              |                                    |
+| **Week 3**  |  8 Mar <br />9 Mar   |  LSTMs and Sequence-to-sequence models <br />Theoretical properties of RNNs               [[slides][3s], [readings][3r]]     |  Antoine Bosselut <br />Gail Weiss |
+|             |                      |                                                                                                                              |                                    |
+| **Week 4**  | 15 Mar <br />16 Mar  |  Attention + Transformers <br />Transformers                                              [[slides][4s], [readings][4r]]     |  Antoine Bosselut                  |
+|             |                      |                                                                                                                              |                                    |
+| **Week 5**  | 22 Mar <br />23 Mar  |  Pretraining: ELMo, BERT  <br />Transfer Learning: Introduction                           [[slides][5s], [readings][5r]]     |  Antoine Bosselut                  |
+|             |                      |                                                                                                                              |                                    |
+| **Week 6**  | 29 Mar <br />30 Mar  |  Transfer Learning: Dataset Biases  <br />Text Generation                                 [[slides][6s]]                     |  Antoine Bosselut                  |
+|             |                      |                                                                                                                              |                                    |
+| **Week 7**  |  5 Apr  <br />6 Apr  |  Text Generation                                                                          [[slides][7s]]                     |  Antoine Bosselut                  |
+|             |                      |                                                                                                                              |                                    |
+| **Week 8**  |                      |  ***EASTER BREAK***                                                                                                          |  Antoine Bosselut                  |  
+|             |                      |                                                                                                                              |                                    |
+| **Week 9**  | 19 Apr <br />20 Apr  |  In-Context Learning <br />                                                                                                  |  Antoine Bosselut                  |
+|             |                      |                                                                                                                              |                                    |
+| **Week 10** | 26 Apr <br />27 Apr  |  Scaling Laws + Model Compression <br />***No class***                                                                       |  Antoine Bosselut <br />Reza Banaei   |
+|             |                      |                                                                                                                              |                                       |
+| **Week 11** |  3 May <br />4 May   |  Ethics in NLP <br />Ethics in NLP                                                                                           |  Antoine Bosselut                     |
+|             |                      |                                                                                                                              |                                       |
+| **Week 12** | 10 May <br />11 May  |  Interpretability & Analysis of Language Models <br />***No class***                                                         |  Antoine Bosselut                     |
+|             |                      |                                                                                                                              |                                       |
+| **Week 13** | 17 May <br />18 May  |  Reading Comprehension & Open-domain QA <br />Language & Knowledge Graphs                                                    |  Antoine Bosselut  <br />Angelika Romanou |
+|             |                      |                                                                                                                              |                                       |
+| **Week 14** | 24 May <br />25 May  |  Tokenization + Multilingual LMs  <br />***No class***                                                                       |  Negar Foroutan                       |
+|             |                      |                                                                                                                              |                                       |
+| **Week 15** | 31 May <br />1 Jun   |  Language & Vision <br />Language & Vision + Wrap-up                                                                         |  Syrielle Montariol <br />Antoine Bosselut |
 
 <a name="exercises"></a>
 ## Exercise Schedule
 
-| Week    | Date    |  Topic                                                                                    |  Instructor                                                         |
+| Week        | Date    |  Topic                                                                                |  Instructor                                                         |
 |:------------|:--------|:--------------------------------------------------------------------------------------|:-------------------------------------------------------------------:|
 | **Week 1**  | 23 Feb  |  Setup + Word embeddings  [[code][1e]]                                                |  Angelika Romanou <br />Sepideh Mamooler <br />Simin Fan            |
 |             |         |                                                                                       |                                                                     |
@@ -76,13 +76,13 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |             |         |                                                                                       |                                                                     |
 | **Week 6**  | 30 Mar  |  Pretraining Review <br />Transfer Learning: Dataset Biases   [[code][6e]]            |  Molly Petersen <br />Mete Ismayil <br />Sepideh Mamooler           |
 |             |         |                                                                                       |                                                                     |
-| **Week 7**  |  6 Apr  |  Transfer Learning Review <br />Text Generation                                       |  Molly Petersen <br />Deniz Bayazit <br />Sepideh Mamooler          |
+| **Week 7**  |  6 Apr  |  Transfer Learning Review <br />Text Generation       [[code][7e]]                    |  Molly Petersen <br />Deniz Bayazit <br />Sepideh Mamooler          |
 |             |         |                                                                                       |                                                                     |
 | **Week 8**  | 13 Apr  |  ***EASTER BREAK***                                                                   |                                                                     |  
 |             |         |                                                                                       |                                                                     |
 | **Week 9**  | 20 Apr  |  Text Generation Review <br />In-context Learning                                     |  Deniz Bayazit <br />Silin Gao <br />Sepideh Mamooler               |
 |             |         |                                                                                       |                                                                     |
-| **Week 10** | 27 Apr  |  In-context Learning Review <br />Milestone 1 Discussion                              |  Silin Gao <br />TA meetings on-demand                                    |
+| **Week 10** | 27 Apr  |  In-context Learning Review <br />Milestone 1 Discussion                              |  Silin Gao <br />TA meetings on-demand                              |
 |             |         |                                                                                       |                                                                     |
 | **Week 11** |  4 May  |  Project                                                                              |  TA meetings on-demand                                              |
 |             |         |                                                                                       |                                                                     |
@@ -110,12 +110,12 @@ Your grade in the course will be computed according to the following guidelines:
 There will be three assignments throughout the course. They will be released and due according to the following schedule:
 
 #### Assignment 1 (10%)
-Link for the assignment [[here][1a]].
+Link for the assignment [here][1a].
 - Released: 10 Mar 2023
 - Due: 24 Mar 2023
 
 #### Assignment 2 (15%)
-Link for the assignment [[here][2a]].
+Link for the assignment [here][2a].
 - Released: 24 Mar 2023
 - Due: 7 Apr 2023 
 
@@ -176,6 +176,7 @@ Please contact us for any organizational questions or questions related to the c
 [4e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%204%20-%20Transformer%20%26%20Attention
 [5e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%205%20-%20BERT
 [6e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%206%20-%20Biases%20%26%20Prompting
+[7e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%207%20-%20Text%20Generation
 
 [1a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=87286
 [2a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=87999
