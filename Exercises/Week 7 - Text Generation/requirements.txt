@@ -1,0 +1,9 @@
+ipykernel==6.22.0
+ipywidgets==8.0.5
+setuptools==67.6.0 
+wheel==0.40.0
+transformers==4.27.3
+evaluate==0.4.0
+torch==2.0.0
+torchmetrics==0.11.4
+torchvision==0.15.1
