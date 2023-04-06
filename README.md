@@ -117,32 +117,32 @@ Link for the assignment [here][1a].
 #### Assignment 2 (15%)
 Link for the assignment [here][2a].
 - Released: 24 Mar 2023
-- Due: 7 Apr 2023 
+- Due: 9 Apr 2023 
 
 #### Assignment 3 (15%)
 - Released: 7 Apr 2023
-- Due: 28 Apr 2023
+- Due: 30 Apr 2023
 
 Assignments will be released on Moodle and announced on Ed.
 
 ### Project (60%):
 The project will involve using large-scale language models (100B+ parameters) and medium-scale (300M parameters) in the domain of education.  The project will be divided into a proposal, three milestones and a final submission. Each milestone will be worth 10% of the final grade with the remaining 30% being allocated to the final report. Each time will be supervised by one of the course TAs or AEs. More details on the content of the project and the deliverables of each milestone will be released at a later date.
 
-#### Proposal (5%):
+<!-- #### Proposal (5%):
 - For the proposal, students will be responsible for delivering a Project Plan for executing the goals of the project, as well as submitting a list of relevant literature, demonstrating they have identified academic papers that are relevant for each of the portions of the milestones of the project. Each student in the group should review one of these papers and submit it with Milestone 1.
-- Due: 21 Apr 2023
+- Due: 21 Apr 2023 -->
 
-#### Milestone 1 (10%):
+#### Milestone 1 (15%):
 - Exact parameters of Milestone 1 will be released in future weeks. 
-- Due: 5 May 2023
+- Due: 11 May 2023
 
-#### Milestone 2 (10%):
+#### Milestone 2 (15%):
 - Exact parameters of Milestone 2 will be released in future weeks. 
-- Due: 19 May 2023
+- Due: 25 May 2023
 
-#### Milestone 3 (5%):
+<!-- #### Milestone 3 (5%):
 - Exact parameters of Milestone 3 will be released in future weeks. 
-- Due: 4 Jun 2023
+- Due: 4 Jun 2023 -->
 
 #### Final Deliverable (30%):
 - The final report, code, and date will be due on June 15th. Students are welcome to turn in their materials ahead of time on June 4th as soon as the semester ends.
