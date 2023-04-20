@@ -45,7 +45,7 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |             |                      |                                                                                                                              |                                    |
 | **Week 8**  |                      |  ***EASTER BREAK***                                                                                                          |  Antoine Bosselut                  |  
 |             |                      |                                                                                                                              |                                    |
-| **Week 9**  | 19 Apr <br />20 Apr  |  In-Context Learning <br />                                                                                                  |  Antoine Bosselut                  |
+| **Week 9**  | 19 Apr <br />20 Apr  |  In-Context Learning <br />Project Description                                            [[slides][8s]]                     |  Antoine Bosselut                  |
 |             |                      |                                                                                                                              |                                    |
 | **Week 10** | 26 Apr <br />27 Apr  |  Scaling Laws + Model Compression <br />***No class***                                                                       |  Antoine Bosselut <br />Reza Banaei   |
 |             |                      |                                                                                                                              |                                       |
@@ -80,7 +80,7 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |             |         |                                                                                       |                                                                     |
 | **Week 8**  | 13 Apr  |  ***EASTER BREAK***                                                                   |                                                                     |  
 |             |         |                                                                                       |                                                                     |
-| **Week 9**  | 20 Apr  |  Text Generation Review <br />In-context Learning                                     |  Deniz Bayazit <br />Silin Gao <br />Sepideh Mamooler               |
+| **Week 9**  | 20 Apr  |  Text Generation Review <br />In-context Learning     [[code][8e]]                    |  Deniz Bayazit <br />Silin Gao <br />Sepideh Mamooler               |
 |             |         |                                                                                       |                                                                     |
 | **Week 10** | 27 Apr  |  In-context Learning Review <br />Milestone 1 Discussion                              |  Silin Gao <br />TA meetings on-demand                              |
 |             |         |                                                                                       |                                                                     |
@@ -169,6 +169,7 @@ Please contact us for any organizational questions or questions related to the c
 [5s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%205
 [6s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%206
 [7s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%207
+[8s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%208
 
 [1e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%201%20-%20Word%20Embeddings
 [2e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%202%20-%20N-gram%20%26%20Neural%20Language%20Models
@@ -177,6 +178,7 @@ Please contact us for any organizational questions or questions related to the c
 [5e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%205%20-%20BERT
 [6e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%206%20-%20Biases%20%26%20Prompting
 [7e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%207%20-%20Text%20Generation
+[8e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%208%20-%20In-Context%20Learning
 
 [1a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=87286
 [2a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=87999
