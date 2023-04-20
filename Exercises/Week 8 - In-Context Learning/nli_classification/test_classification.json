@@ -1,0 +1,122 @@
+[
+  {
+    "query": "The new rights are nice enough\nEveryone really likes the newest benefits \nAnswer:",
+    "gold_answer": "neutral"
+  },
+  {
+    "query": "This site includes a list of all award winners and a searchable database of Government Executive articles.\nThe Government Executive articles housed on the website are not able to be searched.\nAnswer:",
+    "gold_answer": "contradiction"
+  },
+  {
+    "query": "uh i don't know i i have mixed emotions about him uh sometimes i like him but at the same times i love to see somebody beat him\nI like him for the most part, but would still enjoy seeing someone beat him.\nAnswer:",
+    "gold_answer": "entailment"
+  },
+  {
+    "query": "yeah i i think my favorite restaurant is always been the one closest  you know the closest as long as it's it meets the minimum criteria you know of good food\nMy favorite restaurants are always at least a hundred miles away from my house. \nAnswer:",
+    "gold_answer": "contradiction"
+  },
+  {
+    "query": "i don't know um do you do a lot of camping\nI know exactly.\nAnswer:",
+    "gold_answer": "contradiction"
+  },
+  {
+    "query": "Calcutta seems to be the only other production center having any pretensions to artistic creativity at all, but ironically you're actually more likely to see the works of Satyajit Ray or Mrinal Sen shown in Europe or North America than in India itself.\nMost of Mrinal Sen's work can be found in European collections.\nAnswer:",
+    "gold_answer": "neutral"
+  },
+  {
+    "query": "If that investor were willing to pay extra for the security of limited downside, she could buy put options with a strike price of $98, which would lock in her profit on the shares at $18, less whatever the options cost.\nTHe strike price could be $8.\nAnswer:",
+    "gold_answer": "contradiction"
+  },
+  {
+    "query": "3)  Dare you rise to the occasion, like Raskolnikov, and reject the petty rules that govern lesser men?\nWould you rise up and defeaat all evil lords in the town?\nAnswer:",
+    "gold_answer": "neutral"
+  },
+  {
+    "query": "The most important directions are simply up and up leads eventually to the cathedral and fortress commanding the hilltop, and down inevitably leads to one of three gates through the wall to the new town.\nGo downwards to one of the gates, all of which will lead you into the cathedral.\nAnswer:",
+    "gold_answer": "contradiction"
+  },
+  {
+    "query": "The bhakti movement of the Tamils brought a new warmth to the hitherto rigid Brahmanic ritual of Hinduism.\nThe Tamils' bhakti movement froze the previously warm ritual of Hinduism.\nAnswer:",
+    "gold_answer": "contradiction"
+  },
+  {
+    "query": "You and your friends are not welcome here, said Severn.\nSevern said the people were not welcome there.\nAnswer:",
+    "gold_answer": "entailment"
+  },
+  {
+    "query": "um-hum um-hum yeah well uh i can see you know it's it's it's it's kind of funny because we it seems like we loan money you know we money with strings attached and if the government changes and the country that we loan the money to um i can see why the might have a different attitude towards paying it back it's a lot us that  you know we don't really loan money to to countries we loan money to governments and it's the\nWe don't loan a lot of money.\nAnswer:",
+    "gold_answer": "neutral"
+  },
+  {
+    "query": "i'm not sure what the overnight low was\nI don't know how cold it got last night.\nAnswer:",
+    "gold_answer": "entailment"
+  },
+  {
+    "query": "5 The share of gross national saving used to replace depreciated capital has increased over the past 40 years.\nGross national saving was highest this year.\nAnswer:",
+    "gold_answer": "neutral"
+  },
+  {
+    "query": "So far, however, the number of mail pieces lost to alternative bill-paying methods is too small to have any material impact on First-Class volume.\nThe amount of lost mail is huge and really impacts mail volume\nAnswer:",
+    "gold_answer": "contradiction"
+  },
+  {
+    "query": "you want to punch the button and go\nYou don't want to push the button lightly, but rather punch it hard.\nAnswer:",
+    "gold_answer": "neutral"
+  },
+  {
+    "query": "Buffet and a\u00a0 la carte available.\nIt has a buffet.\nAnswer:",
+    "gold_answer": "entailment"
+  },
+  {
+    "query": "We also have found that leading organizations strive to ensure that their core processes efficiently and effectively support mission-related outcomes.\nLeading organizations want to be sure their employees are safe.\nAnswer:",
+    "gold_answer": "neutral"
+  },
+  {
+    "query": "Sorry but that's how it is.\nThis is how things are and there are no apologies about it.\nAnswer:",
+    "gold_answer": "contradiction"
+  },
+  {
+    "query": "Not quite as large is the Papal Crose commemorating Pope John Paul II's visit in 1979, when more than one million people gathered to celebrate mass.\nPope John Paul II also visited in 1983.\nAnswer:",
+    "gold_answer": "neutral"
+  },
+  {
+    "query": "She seemed so different  \"\nShe had changed a lot since the last time we'd seen her.\nAnswer:",
+    "gold_answer": "neutral"
+  },
+  {
+    "query": "The census of 1931 served as an alarm signal for the Malay national consciousness.\nThe 1931 Malay census was an alarm bell.\nAnswer:",
+    "gold_answer": "entailment"
+  },
+  {
+    "query": "Mortifyingly enough, it is all  the difficulty, the laziness, the pathetic formlessness in youth, the round peg in the square hole, the whatever do you want?\nMany youth are lazy.\nAnswer:",
+    "gold_answer": "entailment"
+  },
+  {
+    "query": "Britain's best-selling tabloid, the Sun , announced as a front-page world exclusive Friday that Texan model Jerry Hall has started divorce proceedings against aging rock star Mick Jagger at the High Court in London.\nThere is a British publication called the Sun.\nAnswer:",
+    "gold_answer": "entailment"
+  },
+  {
+    "query": "He was of two minds, one reveled in the peace of this village.\nHe loved how peaceful the village was.\nAnswer:",
+    "gold_answer": "entailment"
+  },
+  {
+    "query": "Table 2: Examples of BLM's, FHWA's, IRS's, and VBA's Customer Satisfaction Expectations for Senior Executive Performance\nSenior Executive's have been studies on various aspects to reach the expectations.\nAnswer:",
+    "gold_answer": "entailment"
+  },
+  {
+    "query": "What's truly striking, though, is that Jobs has never really let this idea go.\nJobs never held onto an idea for long.\nAnswer:",
+    "gold_answer": "contradiction"
+  },
+  {
+    "query": "But to you, who know the truth, I propose to read certain passages which will throw some light on the extraordinary mentality of this great man.\" He opened the book, and turned the thin pages.\nThere is no information on the mentality of the man, extraordinary or not, contained within the thin-paged book. \nAnswer:",
+    "gold_answer": "contradiction"
+  },
+  {
+    "query": "He had never felt better.\nThe medicine he had taken had worked well.\nAnswer:",
+    "gold_answer": "neutral"
+  },
+  {
+    "query": "Similarly, OIM revised the electronic Grant Renewal Application to accommodate new information sought by LSC and to ensure greater ease for users.\nChanges were made to the Grant Renewal Application to provide extra information to the LSC.\nAnswer:",
+    "gold_answer": "entailment"
+  }
+]

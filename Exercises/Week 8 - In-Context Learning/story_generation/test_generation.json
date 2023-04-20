@@ -1,0 +1,42 @@
+[
+  {
+    "query": "A few days ago I decided to take my dog Sable for a walk.\nShe is a half-pit bull half-bulldog with a lot of strength.\nAfter I got her leash on I opened the garage to head outside.\nShe tried bolting out of the garage and dragged me along with her.\nOutput:",
+    "reference_ending": "After the half hour walk my muscles were sore as if I had worked out."
+  },
+  {
+    "query": "Jan's lamp broke.\nJan decided to get a new lamp.\nHe went to the store.\nHe found a lamp he liked.\nOutput:",
+    "reference_ending": "He bought the lamp."
+  },
+  {
+    "query": "This year I watched the NBA dunk contest with my friends.\nThe dunks were out of this world!\nAaron Gordon and Zach LaVine put on a great show for the fans!\nI have never seen those kind of dunks before in my life!\nOutput:",
+    "reference_ending": "Zach LaVine barely beat Aaron Gordon in the finals."
+  },
+  {
+    "query": "It was Tyler's first day of Kindergarten.\nHe was very nervous.\nHe clung to his mother's leg, but she finally left and he had to stay.\nAfter a little while, he started to take part in the class.\nOutput:",
+    "reference_ending": "By the end of the day, he was glad he had gone!"
+  },
+  {
+    "query": "Gloria wanted to find a special new dress for her anniversary dinner.\nShe ordered a fancy black dress that looked lovely in a catalog.\nWhen the dress arrived, Gloria was excited to try it on.\nSadly, the dress was frumpy and saggy and the zipper broke at once.\nOutput:",
+    "reference_ending": "Gloria was very disappointed and returned the dress for a refund."
+  },
+  {
+    "query": "I wanted to run a computer program.\nBut, my computer didn't have enough RAM.\nSo, I decided to upgrade my RAM.\nAlas, my computer didn't allow RAM upgrades.\nOutput:",
+    "reference_ending": "I decided to buy a new computer."
+  },
+  {
+    "query": "Roxy and Sam had everything they needed to make a huge sand castle.\nThey spent the morning talking about their design.\nAfter lunch they started construction.\nBy evening, everyone was gathered around their masterpiece.\nOutput:",
+    "reference_ending": "It was the biggest sand castle they had ever built."
+  },
+  {
+    "query": "Bailey needed a haircut.\nOne day she went to a salon.\nThe salon gave her a haircut.\nShe loved how healthy her hair felt.\nOutput:",
+    "reference_ending": "She made a plan to come back in three months for another haircut."
+  },
+  {
+    "query": "It had been raining for 2 days straight.\nThe sky finally turned blue.\nWhen I looked up there was a rainbow.\nIt stretched for miles across the town.\nOutput:",
+    "reference_ending": "It was a beautiful sight after a rainy day."
+  },
+  {
+    "query": "Jake was biking at the park.\nHe didn't notice a large mud puddle in the ground.\nHis bike splashed mud all over his pants.\nJake changed into shorts when he got back to his car.\nOutput:",
+    "reference_ending": "He put his dirty clothes into a plastic bag."
+  }
+]
