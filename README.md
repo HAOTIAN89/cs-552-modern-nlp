@@ -120,6 +120,7 @@ Link for the assignment [here][2a].
 - Due: 9 Apr 2023 
 
 #### Assignment 3 (15%)
+Link for the assignment [here][3a].
 - Released: 7 Apr 2023
 - Due: 30 Apr 2023
 
@@ -182,7 +183,7 @@ Please contact us for any organizational questions or questions related to the c
 
 [1a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=87286
 [2a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=87999
-
+[3a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=88707
 
 [1r]:https://github.com/epfl-nlp/cs-552-modern-nlp/blob/main/Lectures/Week%201/README.md
 [2r]:https://github.com/epfl-nlp/cs-552-modern-nlp/blob/main/Lectures/Week%202/README.md
