@@ -100,7 +100,7 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 - TAs will present **this week's exercise**. _(5mins)_ 
 - Students will be solving this week's exercises and TAs will provide answers and clarification if needed.
 
-_**Note**: Please make sure you have already done the setup prerequisites to run the coding parts of the exercises. You can find the instructions [here]()._
+_**Note**: Please make sure you have already done the setup prerequisites to run the coding parts of the exercises. You can find the instructions [here][0e]._
 
 <a name="evaluation"></a>
 ## Grading:
@@ -124,22 +124,25 @@ Link for the assignment [here][3a].
 - Released: 7 Apr 2023
 - Due: 30 Apr 2023
 
-Assignments will be released on Moodle and announced on Ed.
+Assignments will be released and announced on Moodle and Ed.
 
 ### Project (60%):
-The project will involve using large-scale language models (100B+ parameters) and medium-scale (300M parameters) in the domain of education.  The project will be divided into a proposal, three milestones and a final submission. Each milestone will be worth 10% of the final grade with the remaining 30% being allocated to the final report. Each time will be supervised by one of the course TAs or AEs. More details on the content of the project and the deliverables of each milestone will be released at a later date.
+The project will involve using large-scale language models (100B+ parameters) and medium-scale (300M parameters) in the domain of education.  The project will be divided into 2 milestones and a final submission. Each milestone will be worth 15% of the final grade with the remaining 30% being allocated to the final report. Each team will be supervised by one of the course TAs or AEs. 
+
+<!-- More details on the content of the project and the deliverables of each milestone will be released at a later date. -->
+Registration details can be found in the announcement [here][1p].
 
 <!-- #### Proposal (5%):
 - For the proposal, students will be responsible for delivering a Project Plan for executing the goals of the project, as well as submitting a list of relevant literature, demonstrating they have identified academic papers that are relevant for each of the portions of the milestones of the project. Each student in the group should review one of these papers and submit it with Milestone 1.
 - Due: 21 Apr 2023 -->
 
 #### Milestone 1 (15%):
-- Exact parameters of Milestone 1 will be released in future weeks. 
-- Due: 11 May 2023
+- Milestone 1 parameters can be found in the [project description][2p].
+- Due: 12 May 2023
 
 #### Milestone 2 (15%):
-- Exact parameters of Milestone 2 will be released in future weeks. 
-- Due: 25 May 2023
+- Milestone 2 parameters can be found in the [project description][2p].
+- Due: 26 May 2023
 
 <!-- #### Milestone 3 (5%):
 - Exact parameters of Milestone 3 will be released in future weeks. 
@@ -147,6 +150,7 @@ The project will involve using large-scale language models (100B+ parameters) an
 
 #### Final Deliverable (30%):
 - The final report, code, and date will be due on June 15th. Students are welcome to turn in their materials ahead of time on June 4th as soon as the semester ends.
+- More details can be found in the [project description][2p].
 - Due: 15 Jun 2023
 
 ### Late Days Policy
@@ -172,6 +176,7 @@ Please contact us for any organizational questions or questions related to the c
 [7s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%207
 [8s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%208
 
+[0e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Setup
 [1e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%201%20-%20Word%20Embeddings
 [2e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%202%20-%20N-gram%20%26%20Neural%20Language%20Models
 [3e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%203%20-%20RNN
@@ -184,6 +189,9 @@ Please contact us for any organizational questions or questions related to the c
 [1a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=87286
 [2a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=87999
 [3a]:https://moodle.epfl.ch/mod/forum/discuss.php?d=88707
+
+[1p]:https://moodle.epfl.ch/mod/forum/discuss.php?d=89129
+[2p]:https://docs.google.com/document/d/1SY1HAfrpoj9B6FnO3LEChne4vdf1GOuswu-H7oUUt8A/edit
 
 [1r]:https://github.com/epfl-nlp/cs-552-modern-nlp/blob/main/Lectures/Week%201/README.md
 [2r]:https://github.com/epfl-nlp/cs-552-modern-nlp/blob/main/Lectures/Week%202/README.md
