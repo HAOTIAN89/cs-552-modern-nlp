@@ -47,15 +47,15 @@ All lectures will be given in person and live streamed on Zoom. The link to the 
 |             |                      |                                                                                                                              |                                    |
 | **Week 9**  | 19 Apr <br />20 Apr  |  In-Context Learning <br />Project Description                                            [[slides][8s]]                     |  Antoine Bosselut                  |
 |             |                      |                                                                                                                              |                                    |
-| **Week 10** | 26 Apr <br />27 Apr  |  Scaling Laws + Model Compression <br />***No class***                                                                       |  Antoine Bosselut <br />Reza Banaei   |
+| **Week 10** | 26 Apr <br />27 Apr  |  Scaling Laws + Model Compression <br />**No class**                                                                         |  Antoine Bosselut <br />Reza Banaei   |
 |             |                      |                                                                                                                              |                                       |
-| **Week 11** |  3 May <br />4 May   |  Ethics in NLP <br />Ethics in NLP                                                                                           |  Antoine Bosselut                     |
+| **Week 11** |  3 May <br />4 May   |  Ethics in NLP <br />**No class**                                                                                            |  Antoine Bosselut                     |
 |             |                      |                                                                                                                              |                                       |
-| **Week 12** | 10 May <br />11 May  |  Interpretability & Analysis of Language Models <br />***No class***                                                         |  Antoine Bosselut                     |
+| **Week 12** | 10 May <br />11 May  |  Interpretability & Analysis of Language Models <br />**No class**                                                           |  Antoine Bosselut                     |
 |             |                      |                                                                                                                              |                                       |
-| **Week 13** | 17 May <br />18 May  |  Reading Comprehension & Open-domain QA <br />Language & Knowledge Graphs                                                    |  Antoine Bosselut  <br />Angelika Romanou |
+| **Week 13** | 17 May <br />18 May  |  Reading Comprehension & Open-domain QA <br />**No class**                                                                   |  Antoine Bosselut  <br />Angelika Romanou |
 |             |                      |                                                                                                                              |                                       |
-| **Week 14** | 24 May <br />25 May  |  Tokenization + Multilingual LMs  <br />***No class***                                                                       |  Negar Foroutan                       |
+| **Week 14** | 24 May <br />25 May  |  Tokenization + Multilingual LMs  <br />**No class**                                                                         |  Negar Foroutan                       |
 |             |                      |                                                                                                                              |                                       |
 | **Week 15** | 31 May <br />1 Jun   |  Language & Vision <br />Language & Vision + Wrap-up                                                                         |  Syrielle Montariol <br />Antoine Bosselut |
 
