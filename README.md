@@ -14,50 +14,50 @@ Natural language processing is ubiquitous in modern intelligent technologies, se
 <a name="class"></a>
 ## Class
 
-| Platform           | Where & when                                              |
-|:-------------------|:----------------------------------------------------------|
-| Lectures           | **Wednesdays: 9:15-11:00am** [[CM2](https://plan.epfl.ch//?room==CM%201%202)] & **Thursdays: 1:15-2:00pm** [[CE1](https://plan.epfl.ch//?room==CE%201%201)] |
-| Exercises Session  | **Thursdays: 2:15-4:00pm** [[CE1](https://plan.epfl.ch//?room==CE%201%201)] |
-| Project Assistance <br />(not every week) | **Wednesdays: 11:15am-12:00pm** [[CM2](https://plan.epfl.ch//?room==CM%201%202)] |
-| Forum              | Ed Forum [[link](https://edstem.org/eu/courses/379/discussion/)]                                       | 
-| Moodle             | Annoucements [[link](https://moodle.epfl.ch/course/view.php?id=17143)]              |
+| Platform           						| Where & when                                              																								   |
+|:------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Lectures           						| **Wednesdays: 9:15-11:00am** [[CM2](https://plan.epfl.ch//?room==CM%201%202)] & **Thursdays: 1:15-2:00pm** [[CE1](https://plan.epfl.ch//?room==CE%201%201)]  |
+| Exercises Session  						| **Thursdays: 2:15-4:00pm** [[CE1](https://plan.epfl.ch//?room==CE%201%201)] 																				   |
+| Project Assistance <br />(not every week) | **Wednesdays: 11:15am-12:00pm** [[CM2](https://plan.epfl.ch//?room==CM%201%202)] 													   						   |
+| Forum              						| Ed Forum [[link](https://edstem.org/eu/courses/379/discussion/)]                                       													   | 
+| Moodle             						| Annoucements [[link](https://moodle.epfl.ch/course/view.php?id=17143)]              																		   |
 
 All lectures will be given in person and live streamed on Zoom. The link to the Zoom is available on the course Moodle page. Lectures will be recorded and uploaded to SwitchTube.
 
 <a name="lectures"></a>
 ## Lecture Schedule
 
-| Week        | Date                 |  Topic                                                                                                                       |  Instructor                        |
-|:------------|:---------------------|:-----------------------------------------------------------------------------------------------------------------------------|:----------------------------------:|
-| **Week 1**  | 22 Feb <br />23 Feb  |  Introduction + Building a simple neural classifier  <br />Neural LMs: word embeddings    [[slides][1s], [readings][1r]]     |  Antoine Bosselut                  |
-|             |                      |                                                                                                                              |                                    |
-| **Week 2**  |  1 Mar <br />2 Mar   |  Classical and Fixed-context Language Models <br />Recurrent Neural Networks              [[slides][2s], [readings][2r]]     |  Antoine Bosselut                  |
-|             |                      |                                                                                                                              |                                    |
-| **Week 3**  |  8 Mar <br />9 Mar   |  LSTMs and Sequence-to-sequence models <br />Theoretical properties of RNNs               [[slides][3s], [readings][3r]]     |  Antoine Bosselut <br />Gail Weiss |
-|             |                      |                                                                                                                              |                                    |
-| **Week 4**  | 15 Mar <br />16 Mar  |  Attention + Transformers <br />Transformers                                              [[slides][4s], [readings][4r]]     |  Antoine Bosselut                  |
-|             |                      |                                                                                                                              |                                    |
-| **Week 5**  | 22 Mar <br />23 Mar  |  Pretraining: ELMo, BERT  <br />Transfer Learning: Introduction                           [[slides][5s], [readings][5r]]     |  Antoine Bosselut                  |
-|             |                      |                                                                                                                              |                                    |
-| **Week 6**  | 29 Mar <br />30 Mar  |  Transfer Learning: Dataset Biases  <br />Text Generation                                 [[slides][6s]]                     |  Antoine Bosselut                  |
-|             |                      |                                                                                                                              |                                    |
-| **Week 7**  |  5 Apr  <br />6 Apr  |  Text Generation                                                                          [[slides][7s]]                     |  Antoine Bosselut                  |
-|             |                      |                                                                                                                              |                                    |
-| **Week 8**  |                      |  ***EASTER BREAK***                                                                                                          |  Antoine Bosselut                  |  
-|             |                      |                                                                                                                              |                                    |
-| **Week 9**  | 19 Apr <br />20 Apr  |  In-Context Learning <br />Project Description                                            [[slides][8s]]                     |  Antoine Bosselut                  |
-|             |                      |                                                                                                                              |                                    |
-| **Week 10** | 26 Apr <br />27 Apr  |  Scaling Laws + Model Compression <br />**No class**                                                                         |  Antoine Bosselut <br />Reza Banaei   |
-|             |                      |                                                                                                                              |                                       |
-| **Week 11** |  3 May <br />4 May   |  Ethics in NLP <br />**No class**                                                                                            |  Antoine Bosselut                     |
-|             |                      |                                                                                                                              |                                       |
-| **Week 12** | 10 May <br />11 May  |  Interpretability & Analysis of Language Models <br />**No class**                                                           |  Antoine Bosselut                     |
-|             |                      |                                                                                                                              |                                       |
-| **Week 13** | 17 May <br />18 May  |  Reading Comprehension & Open-domain QA <br />**No class**                                                                   |  Antoine Bosselut  <br />Angelika Romanou |
-|             |                      |                                                                                                                              |                                       |
-| **Week 14** | 24 May <br />25 May  |  Tokenization + Multilingual LMs  <br />**No class**                                                                         |  Negar Foroutan                       |
-|             |                      |                                                                                                                              |                                       |
-| **Week 15** | 31 May <br />1 Jun   |  Language & Vision <br />Language & Vision + Wrap-up                                                                         |  Syrielle Montariol <br />Antoine Bosselut |
+| Week        | Date                 |  Topic                                                                                                                      |  Nostoi                                                  |  Instructor                                |
+|:------------|:---------------------|:----------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------:|:------------------------------------------:|
+| **Week 1**  | 22 Feb <br />23 Feb  |  Introduction + Building a simple neural classifier  <br />Neural LMs: word embeddings    [[slides][1s], [readings][1r]]    | [Lecture 1][1n] <br />[Lecture 2][2n] <br />[Lecture 3][3n]   |  Antoine Bosselut                   	    |
+|             |                      |                                                                                                                             |                                                          |                                     	    |
+| **Week 2**  |  1 Mar <br />2 Mar   |  Classical and Fixed-context Language Models <br />Recurrent Neural Networks              [[slides][2s], [readings][2r]]    | [Lecture 4-5][45n] <br />[Lecture 6][6n]                 |  Antoine Bosselut                   		|
+|             |                      |                                                                                                                             |                                                          |                                     		|
+| **Week 3**  |  8 Mar <br />9 Mar   |  LSTMs and Sequence-to-sequence models <br />Theoretical properties of RNNs               [[slides][3s], [readings][3r]]    | [Lecture 7][7n] <br />[Lecture 8][8n] <br />[Lecture 9][9n]   |  Antoine Bosselut <br />Gail Weiss  		|
+|             |                      |                                                                                                                             |                                                          |                                     		|
+| **Week 4**  | 15 Mar <br />16 Mar  |  Attention + Transformers <br />Transformers                                              [[slides][4s], [readings][4r]]    | [Lecture 10-11][1011n] <br />[Lecture 12][12n]           |  Antoine Bosselut                   		|
+|             |                      |                                                                                                                             |                                                          |                                     		|
+| **Week 5**  | 22 Mar <br />23 Mar  |  Pretraining: ELMo, BERT  <br />Transfer Learning: Introduction                           [[slides][5s], [readings][5r]]    | [Lecture 13-14][1314n] <br />[Lecture 15][15n]           |  Antoine Bosselut                   		|
+|             |                      |                                                                                                                             |                                                          |                                     		|
+| **Week 6**  | 29 Mar <br />30 Mar  |  Transfer Learning: Dataset Biases  <br />Text Generation                                 [[slides][6s], [readings][6r]]    | [Lecture 16-17][1617n] <br />[Lecture 18][18n]           |  Antoine Bosselut                   		|
+|             |                      |                                                                                                                             |                                                          |                                     		|
+| **Week 7**  |  5 Apr  <br />6 Apr  |  Text Generation                                                                          [[slides][7s], [readings][7r]]    | [Lecture 19-20][1920n] <br />[Lecture 21][21n]           |  Antoine Bosselut                   		|
+|             |                      |                                                                                                                             |                                                          |                                     		|
+| **Week 8**  |                      |  ***EASTER BREAK***                                                                                                         |                                                          |                                     		|
+|             |                      |                                                                                                                             |                                                          |                                     		|
+| **Week 9**  | 19 Apr <br />20 Apr  |  In-Context Learning <br />Project Description                                            [[slides][8s], [readings][8r]]    | [Lecture 23-24][2324n]                                   |  Antoine Bosselut                   		|
+|             |                      |                                                                                                                             |                                                          |                                     		|
+| **Week 10** | 26 Apr <br />27 Apr  |  Scaling Laws + Model Compression <br />**No class**                                      [[slides][9s], [readings][9r]]    | [Lecture 25][25n] <br />[Lecture 26][26n]                |  Antoine Bosselut <br />Reza Banaei 		|
+|             |                      |                                                                                                                             |                                                          |                                     		|
+| **Week 11** |  3 May <br />4 May   |  Ethics in NLP <br />**No class**                                                         [[slides][10s], [readings][10r]]  | [Lecture 27][27n]  								      |  Antoine Bosselut                   		|
+|             |                      |                                                                                                                             |                                                          |                                     		|
+| **Week 12** | 10 May <br />11 May  |  Interpretability & Analysis of Language Models <br />**No class**                                                          |    												      |  Antoine Bosselut                   		|
+|             |                      |                                                                                                                             |                                                          |                                     		|
+| **Week 13** | 17 May <br />18 May  |  Reading Comprehension & Open-domain QA <br />**No class**                                                                  |    												      |  Antoine Bosselut  <br />Angelika Romanou   |
+|             |                      |                                                                                                                             |                                                          |                                        		|
+| **Week 14** | 24 May <br />25 May  |  Tokenization + Multilingual LMs  <br />**No class**                                                                        |    												      |  Negar Foroutan                       		|
+|             |                      |                                                                                                                             |                                                          |                                    		    |
+| **Week 15** | 31 May <br />1 Jun   |  Language & Vision <br />Language & Vision + Wrap-up                                                                        |													      |  Syrielle Montariol <br />Antoine Bosselut  |
 
 <a name="exercises"></a>
 ## Exercise Schedule
@@ -162,7 +162,7 @@ All assignments and milestones are due at 11:59 PM on their due date. As we unde
 
 **Lecturer**: [Antoine Bosselut](https://people.epfl.ch/antoine.bosselut).
 
-**Teaching assistants**: [Mohammadreza Banaei](https://people.epfl.ch/mohammadreza.banaei?lang=en), [Deniz Bayazit](https://people.epfl.ch/deniz.bayazit?lang=en), [Zeming (Eric) Chen](https://people.epfl.ch/zeming.chen?lang=en), [Simin Fan](https://people.epfl.ch/simin.fan?lang=en), [Silin Gao](https://people.epfl.ch/silin.gao?lang=en), [Angelika Romanou](https://people.epfl.ch/angelika.romanou?lang=en)
+**Teaching assistants**: [Mohammadreza Banaei](https://people.epfl.ch/mohammadreza.banaei?lang=en), [Deniz Bayazit](https://people.epfl.ch/deniz.bayazit?lang=en), [Zeming (Eric) Chen](https://people.epfl.ch/zeming.chen?lang=en), [Simin Fan](https://people.epfl.ch/simin.fan?lang=en), [Silin Gao](https://people.epfl.ch/silin.gao?lang=en), [Molly Petersen](https://people.epfl.ch/molly.petersen?lang=en), [Angelika Romanou](https://people.epfl.ch/angelika.romanou?lang=en)
 
 Please contact us for any organizational questions or questions related to the course content.
 
@@ -175,6 +175,8 @@ Please contact us for any organizational questions or questions related to the c
 [6s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%206
 [7s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%207
 [8s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%208
+[9s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%209
+[10s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%2010
 
 [0e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Setup
 [1e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%201%20-%20Word%20Embeddings
@@ -198,4 +200,31 @@ Please contact us for any organizational questions or questions related to the c
 [3r]:https://github.com/epfl-nlp/cs-552-modern-nlp/blob/main/Lectures/Week%203/README.md
 [4r]:https://github.com/epfl-nlp/cs-552-modern-nlp/blob/main/Lectures/Week%204/README.md
 [5r]:https://github.com/epfl-nlp/cs-552-modern-nlp/blob/main/Lectures/Week%205/README.md
+[6r]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%206/README.md
+[7r]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%207/README.md
+[8r]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%208/README.md
+[9r]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%209/README.md
+[10r]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%2010/README.md
+
+
+[1n]:https://course.asknostoi.com/explanator/lecture_595b6ab1253940ecae2016a184c30288
+[2n]:https://course.asknostoi.com/explanator/lecture_fb28b6cae711419e95928d032ce54903
+[3n]:https://course.asknostoi.com/explanator/lecture_85274d0ec7fc41ff9f680de7928fb7b4
+[45n]:https://course.asknostoi.com/explanator/lecture_11ea9d0b4ba94b5b939463f9c329585c
+[6n]:https://course.asknostoi.com/explanator/lecture_e5b7745e395647a2b4f789ed2903f4c7
+[7n]:https://course.asknostoi.com/explanator/lecture_d2c8dc95484c4569b185a07e89748d13
+[8n]:https://course.asknostoi.com/explanator/lecture_cf59f6020fca414d8b671277c4f5ad66
+[9n]:https://course.asknostoi.com/explanator/lecture_c4c6c52534e142c39a8c287b9fa4b315
+[1011n]:https://course.asknostoi.com/explanator/lecture_066cce83737844848b02469ee4643318
+[12n]:https://course.asknostoi.com/explanator/lecture_ef895802d6db49c8a497dd2b38eaa122
+[1314n]:https://course.asknostoi.com/explanator/lecture_625c8d0af3554a128fcd173efe16135b
+[15n]:https://course.asknostoi.com/explanator/lecture_ce86201e51ae4d188479310680434577
+[1617n]:https://course.asknostoi.com/explanator/lecture_fc5f5ce8040c4b73853eb02f5c29ee77
+[18n]:https://course.asknostoi.com/explanator/lecture_a327b15a5365406684c9e7428bf77720
+[1920n]:https://course.asknostoi.com/explanator/lecture_8f58d16ff8b2464d94fa85d63e2a0a6e
+[21n]:https://course.asknostoi.com/explanator/lecture_312787bc6f1e4af0954e123aecc4407d
+[2324n]:https://course.asknostoi.com/explanator/lecture_7dffcedbb585412fa038f55b81c0fab3
+[25n]:https://course.asknostoi.com/explanator/lecture_6e1d09f412894da9acaa471912852164
+[26n]:https://course.asknostoi.com/explanator/lecture_ccce8962625a4063841bab9eac099e51
+[27n]:https://course.asknostoi.com/explanator/lecture_9952174f940947129c43042a6fe5d2ef
 
