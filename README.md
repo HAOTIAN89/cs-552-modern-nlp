@@ -138,11 +138,11 @@ Registration details can be found in the announcement [here][1p].
 
 #### Milestone 1 (15%):
 - Milestone 1 parameters can be found in the [project description][2p].
-- Due: 12 May 2023
+- Due: 14 May 2023
 
 #### Milestone 2 (15%):
 - Milestone 2 parameters can be found in the [project description][2p].
-- Due: 26 May 2023
+- Due: 28 May 2023
 
 <!-- #### Milestone 3 (5%):
 - Exact parameters of Milestone 3 will be released in future weeks. 
