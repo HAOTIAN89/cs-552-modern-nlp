@@ -142,7 +142,7 @@ Registration details can be found in the announcement [here][1p].
 
 #### Milestone 2 (15%):
 - Milestone 2 parameters can be found in the [project description][2p].
-- Due: 28 May 2023
+- Due: 4 Jun 2023
 
 <!-- #### Milestone 3 (5%):
 - Exact parameters of Milestone 3 will be released in future weeks. 
@@ -151,7 +151,7 @@ Registration details can be found in the announcement [here][1p].
 #### Final Deliverable (30%):
 - The final report, code, and date will be due on June 15th. Students are welcome to turn in their materials ahead of time on June 4th as soon as the semester ends.
 - More details can be found in the [project description][2p].
-- Due: 15 Jun 2023
+- Due: 18 Jun 2023
 
 ### Late Days Policy
 All assignments and milestones are due at 11:59 PM on their due date. As we understand that circumstances can make it challenging to abide by these due dates, you will receive 6 late days over the course of the semester to be allocated to the assignments and project milestones as you see fit. No further extensions will be granted. The only exception to this rule is for the final report, code, and data. No extensions will be granted beyond June 15th.
